@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me 【关于我】
+#### 常用开发框架
+
+| Rank | Framework | Hadoop   |  Ops     |
+|-----:|----------:|---------:| ---------|
+|     1| django    |   CHD    |   ansibe |
+|     2| fastapi   |   HDP    |   python |
+|     3| scrapy    |          |   shell  |
+|      |           |             |   jenkins |    
+#### About me 【关于我】
 - https://devopshot
 - https://github.com/abc16810
