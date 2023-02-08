@@ -15,14 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 常用开发框架
+#### 开发框架及容器部署工具
 
-| Rank | Framework | Hadoop   |  Ops     |
-|-----:|----------:|---------:| ---------|
-|     1| django    |   CHD    |   ansibe |
-|     2| fastapi   |   HDP    |   python |
-|     3| scrapy    |          |   shell  |
-|      |           |             |   jenkins |    
+| Rank | Framework | Hadoop   |  Ops      |   container    |    cloud     |  monitoring |
+|-----:|----------:|---------:| ---------:| --------------:|-------------:| ------------|     
+|     1| django    |   CHD    |    ansibe |  docker/nerdctl|  openstack   |   zabbix    |
+|     2| fastapi   |   HDP    |    python |  docker-compose|  cloudsack   |   prometheus|
+|     3| scrapy    |          |    shell  |  kubernetes    |  
+|      |           |          |   jenkins |  helm          |
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+  
+</details>
+
 #### About me 【关于我】
 - https://devopshot
 - https://github.com/abc16810
+
+#### Connect With Me 【联系我】
+- 📩 devopshot@163.com
+- WeChat  abc16810
