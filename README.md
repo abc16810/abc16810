@@ -1,3 +1,5 @@
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abc16810&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+
 #### 开发框架及容器部署工具
 
 | Rank | Framework | Hadoop   |  Ops      |   container    |    cloud     |  monitoring |
@@ -6,6 +8,8 @@
 |     2| fastapi   |   HDP    |    python |  docker-compose|  cloudsack   |   prometheus|
 |     3| scrapy    |          |    shell  |  kubernetes    |  
 |      |           |          |   jenkins |  helm          |
+
+
 
 #### About me 【关于我】
 - https://devopshot
